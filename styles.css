@@ -1,0 +1,117 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 879px;
+	 height: 1240px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer2 
+{ 
+	 left: 7px; 
+	 top: 9px; 
+	 position: absolute; 
+	 width: 863px;
+	 height: 1220px;
+	 z-index:1;
+} 
+
+ #Layer2copy 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 879px;
+	 height: 1240px;
+	 z-index:2;
+} 
+
+ #Layer5 
+{ 
+	 left: 613px; 
+	 top: 462px; 
+	 position: absolute; 
+	 width: 259px;
+	 height: 482px;
+	 z-index:3;
+} 
+
+ #Layer0copy 
+{ 
+	 left: 9px; 
+	 top: 67px; 
+	 position: absolute; 
+	 width: 861px;
+	 height: 373px;
+	 z-index:4;
+} 
+
+ #Layer1 
+{ 
+	 left: 9px; 
+	 top: 8px; 
+	 position: absolute; 
+	 width: 861px;
+	 height: 59px;
+	 z-index:5;
+} 
+
+ #Layer1copy 
+{ 
+	 left: 9px; 
+	 top: 1196px; 
+	 position: absolute; 
+	 width: 861px;
+	 height: 32px;
+	 z-index:6;
+} 
+
+ #INTRODUCINGTHEWORLDS 
+{ 
+	 left: 84px; 
+	 top: 109px; 
+	 position: absolute; 
+	 width: 712px;
+	 height: 115px;
+	 z-index:7;
+} 
+
+ #Layer4 
+{ 
+	 left: 9px; 
+	 top: 961px; 
+	 position: absolute; 
+	 width: 859px;
+	 height: 236px;
+	 z-index:8;
+} 
+
+ #Itsallinthewallnomor 
+{ 
+	 left: 24px; 
+	 top: 476px; 
+	 position: absolute; 
+	 width: 559px;
+	 height: 457px;
+	 z-index:9;
+} 
+
+ #QUESTIONSCALLUSTODAY 
+{ 
+	 left: 189px; 
+	 top: 27px; 
+	 position: absolute; 
+	 width: 500px;
+	 height: 22px;
+	 z-index:10;
+} 
